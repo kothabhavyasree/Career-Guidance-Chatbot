@@ -42,4 +42,22 @@ Career-Guidance-Chatbot/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
+## ⚙️ Installation
 
+Clone the repository:
+
+```bash
+git clone git@github.com:kothabhavyasree/Career-Guidance-Chatbot.git
+```
+Move into the project directory:
+
+```bash
+cd Career-Guidance-Chatbot
+```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
