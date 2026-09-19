@@ -82,6 +82,7 @@ The application will open in your browser.
 
 ## 🌐 Live Demo
 
+[Live Demo](https://kothabhavyasree-career-guidance-chatb-career-chatbot-app-lbqmqm.streamlit.app/)
 The deployed Streamlit application is available through Streamlit Community Cloud.
 
 ## 👩‍💻 Author
