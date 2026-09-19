@@ -1,0 +1,45 @@
+# Career Guidance Chatbot
+
+An AI-powered Career Guidance Chatbot built using Python, Streamlit, LangChain, and Groq.
+
+## 🚀 Overview
+
+The Career Guidance Chatbot helps students get guidance related to:
+
+- Career paths
+- Skills to learn
+- Programming languages
+- AI/ML career opportunities
+- Interview preparation
+- Placement preparation
+- Learning roadmaps
+
+The application uses an LLM to provide interactive career-related responses through a simple Streamlit interface.
+
+## ✨ Features
+
+- 🤖 AI-powered career guidance
+- 💬 Interactive chatbot interface
+- 🎯 Career and skill recommendations
+- 📚 Learning roadmap suggestions
+- 💻 Placement and interview guidance
+- 🌐 Streamlit web application
+
+## 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- LangChain
+- Groq API
+- LLM
+
+## 📁 Project Structure
+
+```text
+Career-Guidance-Chatbot/
+│
+├── career_chatbot_app.py
+├── requirements.txt
+├── .gitignore
+└── README.md
+
