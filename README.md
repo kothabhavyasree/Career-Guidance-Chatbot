@@ -61,3 +61,12 @@ Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
+## 🔑 API Key Configuration
+
+Set your Groq API key as an environment variable:
+
+```bash
+export GROQ_API_KEY="your_api_key_here"
+```
+
+Do not hardcode API keys in the source code or commit them to GitHub.
